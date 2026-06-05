@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f2027,50:203a43,100:2c5364&text=Mina%20Mikhail&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=CS%20%2B%20Math%20%7C%20Builder%20%7C%20Incoming%20Amazon%20SWE%20Intern&descAlignY=60&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f2027,50:203a43,100:2c5364&text=Mina%20Mikhail&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=CS%20%2B%20Math%20%7C%20Builder%20%7C%20Amazon%20SWE%20Intern&descAlignY=60&animation=fadeIn" />
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=500&center=true&vCenter=true&width=900&color=748085&lines=incoming+SWE+intern+%40+Amazon;building+web%2C+AI%2C+and+developer+tools;CS+%2B+Math+%40+University+of+Toronto" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=500&center=true&vCenter=true&width=900&color=748085&lines=SWE+intern+%40+Amazon;building+web%2C+AI%2C+and+developer+tools;CS+%2B+Math+%40+University+of+Toronto" />
 
 </div>
 
@@ -29,7 +29,7 @@
 ## about me
 
 CS + Math @ [University of Toronto](https://www.utoronto.ca)  
-Incoming SWE intern @ [Amazon](https://www.amazon.jobs)  
+SWE intern @ [Amazon](https://www.amazon.jobs)  
 Previously SWE intern @ [RBC](https://www.rbc.com)  
 
 - interested in AI tools, full-stack development, and algorithms
