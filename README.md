@@ -28,7 +28,7 @@
 
 ## about me
 
-CS + Math @ [University of Waterloo](https://uwaterloo.ca/)  
+CS @ [University of Waterloo](https://uwaterloo.ca/)  
 SWE intern @ [Amazon](https://www.amazon.jobs)  
 Previously SWE intern @ [RBC](https://www.rbc.com)  
 
